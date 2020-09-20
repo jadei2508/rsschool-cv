@@ -15,6 +15,7 @@ public List<String> getBanksByTLD() {
                 .collect(Collectors.toList());
     }
 ```
+* I have worked for 7 month on position Junior Developer in TSC.
 * I finished the Java Web Development course in the Epam. 
 * Information Systems and Technologies in Economics BSUIR (Bachelor).Passed some online cources on Coursera.
 * English - B1.
